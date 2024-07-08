@@ -1,0 +1,1326 @@
+year,tmID,lgID,name
+1917,MTL,NHL,Montreal Canadiens
+1917,MTW,NHL,Montreal Wanderers
+1917,OTS,NHL,Ottawa Senators
+1917,TOA,NHL,Toronto Arenas
+1918,MTL,NHL,Montreal Canadiens
+1918,OTS,NHL,Ottawa Senators
+1918,TOA,NHL,Toronto Arenas
+1919,MTL,NHL,Montreal Canadiens
+1919,OTS,NHL,Ottawa Senators
+1919,QUB,NHL,Quebec Bulldogs
+1919,TRS,NHL,Toronto St. Patricks
+1920,HAM,NHL,Hamilton Tigers
+1920,MTL,NHL,Montreal Canadiens
+1920,OTS,NHL,Ottawa Senators
+1920,TRS,NHL,Toronto St. Patricks
+1921,HAM,NHL,Hamilton Tigers
+1921,MTL,NHL,Montreal Canadiens
+1921,OTS,NHL,Ottawa Senators
+1921,TRS,NHL,Toronto St. Patricks
+1922,HAM,NHL,Hamilton Tigers
+1922,MTL,NHL,Montreal Canadiens
+1922,OTS,NHL,Ottawa Senators
+1922,TRS,NHL,Toronto St. Patricks
+1923,HAM,NHL,Hamilton Tigers
+1923,MTL,NHL,Montreal Canadiens
+1923,OTS,NHL,Ottawa Senators
+1923,TRS,NHL,Toronto St. Patricks
+1924,BOS,NHL,Boston Bruins
+1924,HAM,NHL,Hamilton Tigers
+1924,MTL,NHL,Montreal Canadiens
+1924,MTM,NHL,Montreal Maroons
+1924,OTS,NHL,Ottawa Senators
+1924,TRS,NHL,Toronto St. Patricks
+1925,BOS,NHL,Boston Bruins
+1925,MTL,NHL,Montreal Canadiens
+1925,MTM,NHL,Montreal Maroons
+1925,NYA,NHL,New York Americans
+1925,OTS,NHL,Ottawa Senators
+1925,PIP,NHL,Pittsburgh Pirates
+1925,TRS,NHL,Toronto St. Patricks
+1926,BOS,NHL,Boston Bruins
+1926,CHI,NHL,Chicago Black Hawks
+1926,DTC,NHL,Detroit Cougars
+1926,MTL,NHL,Montreal Canadiens
+1926,MTM,NHL,Montreal Maroons
+1926,NYA,NHL,New York Americans
+1926,NYR,NHL,New York Rangers
+1926,OTS,NHL,Ottawa Senators
+1926,PIP,NHL,Pittsburgh Pirates
+1926,TRS,NHL,Toronto St. Patricks
+1927,BOS,NHL,Boston Bruins
+1927,CHI,NHL,Chicago Black Hawks
+1927,DTC,NHL,Detroit Cougars
+1927,MTL,NHL,Montreal Canadiens
+1927,MTM,NHL,Montreal Maroons
+1927,NYA,NHL,New York Americans
+1927,NYR,NHL,New York Rangers
+1927,OTS,NHL,Ottawa Senators
+1927,PIP,NHL,Pittsburgh Pirates
+1927,TOR,NHL,Toronto Maple Leafs
+1928,BOS,NHL,Boston Bruins
+1928,CHI,NHL,Chicago Black Hawks
+1928,DTC,NHL,Detroit Cougars
+1928,MTL,NHL,Montreal Canadiens
+1928,MTM,NHL,Montreal Maroons
+1928,NYA,NHL,New York Americans
+1928,NYR,NHL,New York Rangers
+1928,OTS,NHL,Ottawa Senators
+1928,PIP,NHL,Pittsburgh Pirates
+1928,TOR,NHL,Toronto Maple Leafs
+1929,BOS,NHL,Boston Bruins
+1929,CHI,NHL,Chicago Black Hawks
+1929,DTC,NHL,Detroit Cougars
+1929,MTL,NHL,Montreal Canadiens
+1929,MTM,NHL,Montreal Maroons
+1929,NYA,NHL,New York Americans
+1929,NYR,NHL,New York Rangers
+1929,OTS,NHL,Ottawa Senators
+1929,PIP,NHL,Pittsburgh Pirates
+1929,TOR,NHL,Toronto Maple Leafs
+1930,BOS,NHL,Boston Bruins
+1930,CHI,NHL,Chicago Black Hawks
+1930,DTF,NHL,Detroit Falcons
+1930,MTL,NHL,Montreal Canadiens
+1930,MTM,NHL,Montreal Maroons
+1930,NYA,NHL,New York Americans
+1930,NYR,NHL,New York Rangers
+1930,OTS,NHL,Ottawa Senators
+1930,PHQ,NHL,Philadelphia Quakers
+1930,TOR,NHL,Toronto Maple Leafs
+1931,BOS,NHL,Boston Bruins
+1931,CHI,NHL,Chicago Black Hawks
+1931,DTF,NHL,Detroit Falcons
+1931,MTL,NHL,Montreal Canadiens
+1931,MTM,NHL,Montreal Maroons
+1931,NYA,NHL,New York Americans
+1931,NYR,NHL,New York Rangers
+1931,TOR,NHL,Toronto Maple Leafs
+1932,BOS,NHL,Boston Bruins
+1932,CHI,NHL,Chicago Black Hawks
+1932,DET,NHL,Detroit Red Wings
+1932,MTL,NHL,Montreal Canadiens
+1932,MTM,NHL,Montreal Maroons
+1932,NYA,NHL,New York Americans
+1932,NYR,NHL,New York Rangers
+1932,OTS,NHL,Ottawa Senators
+1932,TOR,NHL,Toronto Maple Leafs
+1933,BOS,NHL,Boston Bruins
+1933,CHI,NHL,Chicago Black Hawks
+1933,DET,NHL,Detroit Red Wings
+1933,MTL,NHL,Montreal Canadiens
+1933,MTM,NHL,Montreal Maroons
+1933,NYA,NHL,New York Americans
+1933,NYR,NHL,New York Rangers
+1933,OTS,NHL,Ottawa Senators
+1933,TOR,NHL,Toronto Maple Leafs
+1934,BOS,NHL,Boston Bruins
+1934,CHI,NHL,Chicago Black Hawks
+1934,DET,NHL,Detroit Red Wings
+1934,MTL,NHL,Montreal Canadiens
+1934,MTM,NHL,Montreal Maroons
+1934,NYA,NHL,New York Americans
+1934,NYR,NHL,New York Rangers
+1934,STE,NHL,St. Louis Eagles
+1934,TOR,NHL,Toronto Maple Leafs
+1935,BOS,NHL,Boston Bruins
+1935,CHI,NHL,Chicago Black Hawks
+1935,DET,NHL,Detroit Red Wings
+1935,MTL,NHL,Montreal Canadiens
+1935,MTM,NHL,Montreal Maroons
+1935,NYA,NHL,New York Americans
+1935,NYR,NHL,New York Rangers
+1935,TOR,NHL,Toronto Maple Leafs
+1936,BOS,NHL,Boston Bruins
+1936,CHI,NHL,Chicago Black Hawks
+1936,DET,NHL,Detroit Red Wings
+1936,MTL,NHL,Montreal Canadiens
+1936,MTM,NHL,Montreal Maroons
+1936,NYA,NHL,New York Americans
+1936,NYR,NHL,New York Rangers
+1936,TOR,NHL,Toronto Maple Leafs
+1937,BOS,NHL,Boston Bruins
+1937,CHI,NHL,Chicago Black Hawks
+1937,DET,NHL,Detroit Red Wings
+1937,MTL,NHL,Montreal Canadiens
+1937,MTM,NHL,Montreal Maroons
+1937,NYA,NHL,New York Americans
+1937,NYR,NHL,New York Rangers
+1937,TOR,NHL,Toronto Maple Leafs
+1938,BOS,NHL,Boston Bruins
+1938,CHI,NHL,Chicago Black Hawks
+1938,DET,NHL,Detroit Red Wings
+1938,MTL,NHL,Montreal Canadiens
+1938,NYA,NHL,New York Americans
+1938,NYR,NHL,New York Rangers
+1938,TOR,NHL,Toronto Maple Leafs
+1939,BOS,NHL,Boston Bruins
+1939,CHI,NHL,Chicago Black Hawks
+1939,DET,NHL,Detroit Red Wings
+1939,MTL,NHL,Montreal Canadiens
+1939,NYA,NHL,New York Americans
+1939,NYR,NHL,New York Rangers
+1939,TOR,NHL,Toronto Maple Leafs
+1940,BOS,NHL,Boston Bruins
+1940,CHI,NHL,Chicago Black Hawks
+1940,DET,NHL,Detroit Red Wings
+1940,MTL,NHL,Montreal Canadiens
+1940,NYA,NHL,New York Americans
+1940,NYR,NHL,New York Rangers
+1940,TOR,NHL,Toronto Maple Leafs
+1941,BKN,NHL,Brooklyn Americans
+1941,BOS,NHL,Boston Bruins
+1941,CHI,NHL,Chicago Black Hawks
+1941,DET,NHL,Detroit Red Wings
+1941,MTL,NHL,Montreal Canadiens
+1941,NYR,NHL,New York Rangers
+1941,TOR,NHL,Toronto Maple Leafs
+1942,BOS,NHL,Boston Bruins
+1942,CHI,NHL,Chicago Black Hawks
+1942,DET,NHL,Detroit Red Wings
+1942,MTL,NHL,Montreal Canadiens
+1942,NYR,NHL,New York Rangers
+1942,TOR,NHL,Toronto Maple Leafs
+1943,BOS,NHL,Boston Bruins
+1943,CHI,NHL,Chicago Black Hawks
+1943,DET,NHL,Detroit Red Wings
+1943,MTL,NHL,Montreal Canadiens
+1943,NYR,NHL,New York Rangers
+1943,TOR,NHL,Toronto Maple Leafs
+1944,BOS,NHL,Boston Bruins
+1944,CHI,NHL,Chicago Black Hawks
+1944,DET,NHL,Detroit Red Wings
+1944,MTL,NHL,Montreal Canadiens
+1944,NYR,NHL,New York Rangers
+1944,TOR,NHL,Toronto Maple Leafs
+1945,BOS,NHL,Boston Bruins
+1945,CHI,NHL,Chicago Black Hawks
+1945,DET,NHL,Detroit Red Wings
+1945,MTL,NHL,Montreal Canadiens
+1945,NYR,NHL,New York Rangers
+1945,TOR,NHL,Toronto Maple Leafs
+1946,BOS,NHL,Boston Bruins
+1946,CHI,NHL,Chicago Black Hawks
+1946,DET,NHL,Detroit Red Wings
+1946,MTL,NHL,Montreal Canadiens
+1946,NYR,NHL,New York Rangers
+1946,TOR,NHL,Toronto Maple Leafs
+1947,BOS,NHL,Boston Bruins
+1947,CHI,NHL,Chicago Black Hawks
+1947,DET,NHL,Detroit Red Wings
+1947,MTL,NHL,Montreal Canadiens
+1947,NYR,NHL,New York Rangers
+1947,TOR,NHL,Toronto Maple Leafs
+1948,BOS,NHL,Boston Bruins
+1948,CHI,NHL,Chicago Black Hawks
+1948,DET,NHL,Detroit Red Wings
+1948,MTL,NHL,Montreal Canadiens
+1948,NYR,NHL,New York Rangers
+1948,TOR,NHL,Toronto Maple Leafs
+1949,BOS,NHL,Boston Bruins
+1949,CHI,NHL,Chicago Black Hawks
+1949,DET,NHL,Detroit Red Wings
+1949,MTL,NHL,Montreal Canadiens
+1949,NYR,NHL,New York Rangers
+1949,TOR,NHL,Toronto Maple Leafs
+1950,BOS,NHL,Boston Bruins
+1950,CHI,NHL,Chicago Black Hawks
+1950,DET,NHL,Detroit Red Wings
+1950,MTL,NHL,Montreal Canadiens
+1950,NYR,NHL,New York Rangers
+1950,TOR,NHL,Toronto Maple Leafs
+1951,BOS,NHL,Boston Bruins
+1951,CHI,NHL,Chicago Black Hawks
+1951,DET,NHL,Detroit Red Wings
+1951,MTL,NHL,Montreal Canadiens
+1951,NYR,NHL,New York Rangers
+1951,TOR,NHL,Toronto Maple Leafs
+1952,BOS,NHL,Boston Bruins
+1952,CHI,NHL,Chicago Black Hawks
+1952,DET,NHL,Detroit Red Wings
+1952,MTL,NHL,Montreal Canadiens
+1952,NYR,NHL,New York Rangers
+1952,TOR,NHL,Toronto Maple Leafs
+1953,BOS,NHL,Boston Bruins
+1953,CHI,NHL,Chicago Black Hawks
+1953,DET,NHL,Detroit Red Wings
+1953,MTL,NHL,Montreal Canadiens
+1953,NYR,NHL,New York Rangers
+1953,TOR,NHL,Toronto Maple Leafs
+1954,BOS,NHL,Boston Bruins
+1954,CHI,NHL,Chicago Black Hawks
+1954,DET,NHL,Detroit Red Wings
+1954,MTL,NHL,Montreal Canadiens
+1954,NYR,NHL,New York Rangers
+1954,TOR,NHL,Toronto Maple Leafs
+1955,BOS,NHL,Boston Bruins
+1955,CHI,NHL,Chicago Black Hawks
+1955,DET,NHL,Detroit Red Wings
+1955,MTL,NHL,Montreal Canadiens
+1955,NYR,NHL,New York Rangers
+1955,TOR,NHL,Toronto Maple Leafs
+1956,BOS,NHL,Boston Bruins
+1956,CHI,NHL,Chicago Black Hawks
+1956,DET,NHL,Detroit Red Wings
+1956,MTL,NHL,Montreal Canadiens
+1956,NYR,NHL,New York Rangers
+1956,TOR,NHL,Toronto Maple Leafs
+1957,BOS,NHL,Boston Bruins
+1957,CHI,NHL,Chicago Black Hawks
+1957,DET,NHL,Detroit Red Wings
+1957,MTL,NHL,Montreal Canadiens
+1957,NYR,NHL,New York Rangers
+1957,TOR,NHL,Toronto Maple Leafs
+1958,BOS,NHL,Boston Bruins
+1958,CHI,NHL,Chicago Black Hawks
+1958,DET,NHL,Detroit Red Wings
+1958,MTL,NHL,Montreal Canadiens
+1958,NYR,NHL,New York Rangers
+1958,TOR,NHL,Toronto Maple Leafs
+1959,BOS,NHL,Boston Bruins
+1959,CHI,NHL,Chicago Black Hawks
+1959,DET,NHL,Detroit Red Wings
+1959,MTL,NHL,Montreal Canadiens
+1959,NYR,NHL,New York Rangers
+1959,TOR,NHL,Toronto Maple Leafs
+1960,BOS,NHL,Boston Bruins
+1960,CHI,NHL,Chicago Black Hawks
+1960,DET,NHL,Detroit Red Wings
+1960,MTL,NHL,Montreal Canadiens
+1960,NYR,NHL,New York Rangers
+1960,TOR,NHL,Toronto Maple Leafs
+1961,BOS,NHL,Boston Bruins
+1961,CHI,NHL,Chicago Black Hawks
+1961,DET,NHL,Detroit Red Wings
+1961,MTL,NHL,Montreal Canadiens
+1961,NYR,NHL,New York Rangers
+1961,TOR,NHL,Toronto Maple Leafs
+1962,BOS,NHL,Boston Bruins
+1962,CHI,NHL,Chicago Black Hawks
+1962,DET,NHL,Detroit Red Wings
+1962,MTL,NHL,Montreal Canadiens
+1962,NYR,NHL,New York Rangers
+1962,TOR,NHL,Toronto Maple Leafs
+1963,BOS,NHL,Boston Bruins
+1963,CHI,NHL,Chicago Black Hawks
+1963,DET,NHL,Detroit Red Wings
+1963,MTL,NHL,Montreal Canadiens
+1963,NYR,NHL,New York Rangers
+1963,TOR,NHL,Toronto Maple Leafs
+1964,BOS,NHL,Boston Bruins
+1964,CHI,NHL,Chicago Black Hawks
+1964,DET,NHL,Detroit Red Wings
+1964,MTL,NHL,Montreal Canadiens
+1964,NYR,NHL,New York Rangers
+1964,TOR,NHL,Toronto Maple Leafs
+1965,BOS,NHL,Boston Bruins
+1965,CHI,NHL,Chicago Black Hawks
+1965,DET,NHL,Detroit Red Wings
+1965,MTL,NHL,Montreal Canadiens
+1965,NYR,NHL,New York Rangers
+1965,TOR,NHL,Toronto Maple Leafs
+1966,BOS,NHL,Boston Bruins
+1966,CHI,NHL,Chicago Black Hawks
+1966,DET,NHL,Detroit Red Wings
+1966,MTL,NHL,Montreal Canadiens
+1966,NYR,NHL,New York Rangers
+1966,TOR,NHL,Toronto Maple Leafs
+1967,BOS,NHL,Boston Bruins
+1967,CHI,NHL,Chicago Black Hawks
+1967,DET,NHL,Detroit Red Wings
+1967,LAK,NHL,Los Angeles Kings
+1967,MNS,NHL,Minnesota North Stars
+1967,MTL,NHL,Montreal Canadiens
+1967,NYR,NHL,New York Rangers
+1967,OAK,NHL,Oakland Seals
+1967,PHI,NHL,Philadelphia Flyers
+1967,PIT,NHL,Pittsburgh Penguins
+1967,STL,NHL,St. Louis Blues
+1967,TOR,NHL,Toronto Maple Leafs
+1968,BOS,NHL,Boston Bruins
+1968,CHI,NHL,Chicago Black Hawks
+1968,DET,NHL,Detroit Red Wings
+1968,LAK,NHL,Los Angeles Kings
+1968,MNS,NHL,Minnesota North Stars
+1968,MTL,NHL,Montreal Canadiens
+1968,NYR,NHL,New York Rangers
+1968,OAK,NHL,Oakland Seals
+1968,PHI,NHL,Philadelphia Flyers
+1968,PIT,NHL,Pittsburgh Penguins
+1968,STL,NHL,St. Louis Blues
+1968,TOR,NHL,Toronto Maple Leafs
+1969,BOS,NHL,Boston Bruins
+1969,CHI,NHL,Chicago Black Hawks
+1969,DET,NHL,Detroit Red Wings
+1969,LAK,NHL,Los Angeles Kings
+1969,MNS,NHL,Minnesota North Stars
+1969,MTL,NHL,Montreal Canadiens
+1969,NYR,NHL,New York Rangers
+1969,OAK,NHL,Oakland Seals
+1969,PHI,NHL,Philadelphia Flyers
+1969,PIT,NHL,Pittsburgh Penguins
+1969,STL,NHL,St. Louis Blues
+1969,TOR,NHL,Toronto Maple Leafs
+1970,BOS,NHL,Boston Bruins
+1970,BUF,NHL,Buffalo Sabres
+1970,CHI,NHL,Chicago Black Hawks
+1970,CLF,NHL,California Golden Seals
+1970,DET,NHL,Detroit Red Wings
+1970,LAK,NHL,Los Angeles Kings
+1970,MNS,NHL,Minnesota North Stars
+1970,MTL,NHL,Montreal Canadiens
+1970,NYR,NHL,New York Rangers
+1970,PHI,NHL,Philadelphia Flyers
+1970,PIT,NHL,Pittsburgh Penguins
+1970,STL,NHL,St. Louis Blues
+1970,TOR,NHL,Toronto Maple Leafs
+1970,VAN,NHL,Vancouver Canucks
+1971,BOS,NHL,Boston Bruins
+1971,BUF,NHL,Buffalo Sabres
+1971,CHI,NHL,Chicago Black Hawks
+1971,CLF,NHL,California Golden Seals
+1971,DET,NHL,Detroit Red Wings
+1971,LAK,NHL,Los Angeles Kings
+1971,MNS,NHL,Minnesota North Stars
+1971,MTL,NHL,Montreal Canadiens
+1971,NYR,NHL,New York Rangers
+1971,PHI,NHL,Philadelphia Flyers
+1971,PIT,NHL,Pittsburgh Penguins
+1971,STL,NHL,St. Louis Blues
+1971,TOR,NHL,Toronto Maple Leafs
+1971,VAN,NHL,Vancouver Canucks
+1972,ATF,NHL,Atlanta Flames
+1972,BOS,NHL,Boston Bruins
+1972,BUF,NHL,Buffalo Sabres
+1972,CHI,NHL,Chicago Black Hawks
+1972,CLF,NHL,California Golden Seals
+1972,DET,NHL,Detroit Red Wings
+1972,LAK,NHL,Los Angeles Kings
+1972,MNS,NHL,Minnesota North Stars
+1972,MTL,NHL,Montreal Canadiens
+1972,NYI,NHL,New York Islanders
+1972,NYR,NHL,New York Rangers
+1972,PHI,NHL,Philadelphia Flyers
+1972,PIT,NHL,Pittsburgh Penguins
+1972,STL,NHL,St. Louis Blues
+1972,TOR,NHL,Toronto Maple Leafs
+1972,VAN,NHL,Vancouver Canucks
+1973,ATF,NHL,Atlanta Flames
+1973,BOS,NHL,Boston Bruins
+1973,BUF,NHL,Buffalo Sabres
+1973,CHI,NHL,Chicago Black Hawks
+1973,CLF,NHL,California Golden Seals
+1973,DET,NHL,Detroit Red Wings
+1973,LAK,NHL,Los Angeles Kings
+1973,MNS,NHL,Minnesota North Stars
+1973,MTL,NHL,Montreal Canadiens
+1973,NYI,NHL,New York Islanders
+1973,NYR,NHL,New York Rangers
+1973,PHI,NHL,Philadelphia Flyers
+1973,PIT,NHL,Pittsburgh Penguins
+1973,STL,NHL,St. Louis Blues
+1973,TOR,NHL,Toronto Maple Leafs
+1973,VAN,NHL,Vancouver Canucks
+1974,ATF,NHL,Atlanta Flames
+1974,BOS,NHL,Boston Bruins
+1974,BUF,NHL,Buffalo Sabres
+1974,CHI,NHL,Chicago Black Hawks
+1974,CLF,NHL,California Golden Seals
+1974,DET,NHL,Detroit Red Wings
+1974,KCS,NHL,Kansas City Scouts
+1974,LAK,NHL,Los Angeles Kings
+1974,MNS,NHL,Minnesota North Stars
+1974,MTL,NHL,Montreal Canadiens
+1974,NYI,NHL,New York Islanders
+1974,NYR,NHL,New York Rangers
+1974,PHI,NHL,Philadelphia Flyers
+1974,PIT,NHL,Pittsburgh Penguins
+1974,STL,NHL,St. Louis Blues
+1974,TOR,NHL,Toronto Maple Leafs
+1974,VAN,NHL,Vancouver Canucks
+1974,WAS,NHL,Washington Capitals
+1975,ATF,NHL,Atlanta Flames
+1975,BOS,NHL,Boston Bruins
+1975,BUF,NHL,Buffalo Sabres
+1975,CHI,NHL,Chicago Black Hawks
+1975,CLF,NHL,California Golden Seals
+1975,DET,NHL,Detroit Red Wings
+1975,KCS,NHL,Kansas City Scouts
+1975,LAK,NHL,Los Angeles Kings
+1975,MNS,NHL,Minnesota North Stars
+1975,MTL,NHL,Montreal Canadiens
+1975,NYI,NHL,New York Islanders
+1975,NYR,NHL,New York Rangers
+1975,PHI,NHL,Philadelphia Flyers
+1975,PIT,NHL,Pittsburgh Penguins
+1975,STL,NHL,St. Louis Blues
+1975,TOR,NHL,Toronto Maple Leafs
+1975,VAN,NHL,Vancouver Canucks
+1975,WAS,NHL,Washington Capitals
+1976,ATF,NHL,Atlanta Flames
+1976,BOS,NHL,Boston Bruins
+1976,BUF,NHL,Buffalo Sabres
+1976,CHI,NHL,Chicago Black Hawks
+1976,CLE,NHL,Cleveland Barons
+1976,COR,NHL,Colorado Rockies
+1976,DET,NHL,Detroit Red Wings
+1976,LAK,NHL,Los Angeles Kings
+1976,MNS,NHL,Minnesota North Stars
+1976,MTL,NHL,Montreal Canadiens
+1976,NYI,NHL,New York Islanders
+1976,NYR,NHL,New York Rangers
+1976,PHI,NHL,Philadelphia Flyers
+1976,PIT,NHL,Pittsburgh Penguins
+1976,STL,NHL,St. Louis Blues
+1976,TOR,NHL,Toronto Maple Leafs
+1976,VAN,NHL,Vancouver Canucks
+1976,WAS,NHL,Washington Capitals
+1977,ATF,NHL,Atlanta Flames
+1977,BOS,NHL,Boston Bruins
+1977,BUF,NHL,Buffalo Sabres
+1977,CHI,NHL,Chicago Black Hawks
+1977,CLE,NHL,Cleveland Barons
+1977,COR,NHL,Colorado Rockies
+1977,DET,NHL,Detroit Red Wings
+1977,LAK,NHL,Los Angeles Kings
+1977,MNS,NHL,Minnesota North Stars
+1977,MTL,NHL,Montreal Canadiens
+1977,NYI,NHL,New York Islanders
+1977,NYR,NHL,New York Rangers
+1977,PHI,NHL,Philadelphia Flyers
+1977,PIT,NHL,Pittsburgh Penguins
+1977,STL,NHL,St. Louis Blues
+1977,TOR,NHL,Toronto Maple Leafs
+1977,VAN,NHL,Vancouver Canucks
+1977,WAS,NHL,Washington Capitals
+1978,ATF,NHL,Atlanta Flames
+1978,BOS,NHL,Boston Bruins
+1978,BUF,NHL,Buffalo Sabres
+1978,CHI,NHL,Chicago Black Hawks
+1978,COR,NHL,Colorado Rockies
+1978,DET,NHL,Detroit Red Wings
+1978,LAK,NHL,Los Angeles Kings
+1978,MNS,NHL,Minnesota North Stars
+1978,MTL,NHL,Montreal Canadiens
+1978,NYI,NHL,New York Islanders
+1978,NYR,NHL,New York Rangers
+1978,PHI,NHL,Philadelphia Flyers
+1978,PIT,NHL,Pittsburgh Penguins
+1978,STL,NHL,St. Louis Blues
+1978,TOR,NHL,Toronto Maple Leafs
+1978,VAN,NHL,Vancouver Canucks
+1978,WAS,NHL,Washington Capitals
+1979,ATF,NHL,Atlanta Flames
+1979,BOS,NHL,Boston Bruins
+1979,BUF,NHL,Buffalo Sabres
+1979,CHI,NHL,Chicago Black Hawks
+1979,COR,NHL,Colorado Rockies
+1979,DET,NHL,Detroit Red Wings
+1979,EDM,NHL,Edmonton Oilers
+1979,HAR,NHL,Hartford Whalers
+1979,LAK,NHL,Los Angeles Kings
+1979,MNS,NHL,Minnesota North Stars
+1979,MTL,NHL,Montreal Canadiens
+1979,NYI,NHL,New York Islanders
+1979,NYR,NHL,New York Rangers
+1979,PHI,NHL,Philadelphia Flyers
+1979,PIT,NHL,Pittsburgh Penguins
+1979,QUE,NHL,Quebec Nordiques
+1979,STL,NHL,St. Louis Blues
+1979,TOR,NHL,Toronto Maple Leafs
+1979,VAN,NHL,Vancouver Canucks
+1979,WAS,NHL,Washington Capitals
+1979,WIN,NHL,Winnipeg Jets
+1980,BOS,NHL,Boston Bruins
+1980,BUF,NHL,Buffalo Sabres
+1980,CAL,NHL,Calgary Flames
+1980,CHI,NHL,Chicago Black Hawks
+1980,COR,NHL,Colorado Rockies
+1980,DET,NHL,Detroit Red Wings
+1980,EDM,NHL,Edmonton Oilers
+1980,HAR,NHL,Hartford Whalers
+1980,LAK,NHL,Los Angeles Kings
+1980,MNS,NHL,Minnesota North Stars
+1980,MTL,NHL,Montreal Canadiens
+1980,NYI,NHL,New York Islanders
+1980,NYR,NHL,New York Rangers
+1980,PHI,NHL,Philadelphia Flyers
+1980,PIT,NHL,Pittsburgh Penguins
+1980,QUE,NHL,Quebec Nordiques
+1980,STL,NHL,St. Louis Blues
+1980,TOR,NHL,Toronto Maple Leafs
+1980,VAN,NHL,Vancouver Canucks
+1980,WAS,NHL,Washington Capitals
+1980,WIN,NHL,Winnipeg Jets
+1981,BOS,NHL,Boston Bruins
+1981,BUF,NHL,Buffalo Sabres
+1981,CAL,NHL,Calgary Flames
+1981,CHI,NHL,Chicago Black Hawks
+1981,COR,NHL,Colorado Rockies
+1981,DET,NHL,Detroit Red Wings
+1981,EDM,NHL,Edmonton Oilers
+1981,HAR,NHL,Hartford Whalers
+1981,LAK,NHL,Los Angeles Kings
+1981,MNS,NHL,Minnesota North Stars
+1981,MTL,NHL,Montreal Canadiens
+1981,NYI,NHL,New York Islanders
+1981,NYR,NHL,New York Rangers
+1981,PHI,NHL,Philadelphia Flyers
+1981,PIT,NHL,Pittsburgh Penguins
+1981,QUE,NHL,Quebec Nordiques
+1981,STL,NHL,St. Louis Blues
+1981,TOR,NHL,Toronto Maple Leafs
+1981,VAN,NHL,Vancouver Canucks
+1981,WAS,NHL,Washington Capitals
+1981,WIN,NHL,Winnipeg Jets
+1982,BOS,NHL,Boston Bruins
+1982,BUF,NHL,Buffalo Sabres
+1982,CAL,NHL,Calgary Flames
+1982,CHI,NHL,Chicago Black Hawks
+1982,DET,NHL,Detroit Red Wings
+1982,EDM,NHL,Edmonton Oilers
+1982,HAR,NHL,Hartford Whalers
+1982,LAK,NHL,Los Angeles Kings
+1982,MNS,NHL,Minnesota North Stars
+1982,MTL,NHL,Montreal Canadiens
+1982,NJD,NHL,New Jersey Devils
+1982,NYI,NHL,New York Islanders
+1982,NYR,NHL,New York Rangers
+1982,PHI,NHL,Philadelphia Flyers
+1982,PIT,NHL,Pittsburgh Penguins
+1982,QUE,NHL,Quebec Nordiques
+1982,STL,NHL,St. Louis Blues
+1982,TOR,NHL,Toronto Maple Leafs
+1982,VAN,NHL,Vancouver Canucks
+1982,WAS,NHL,Washington Capitals
+1982,WIN,NHL,Winnipeg Jets
+1983,BOS,NHL,Boston Bruins
+1983,BUF,NHL,Buffalo Sabres
+1983,CAL,NHL,Calgary Flames
+1983,CHI,NHL,Chicago Black Hawks
+1983,DET,NHL,Detroit Red Wings
+1983,EDM,NHL,Edmonton Oilers
+1983,HAR,NHL,Hartford Whalers
+1983,LAK,NHL,Los Angeles Kings
+1983,MNS,NHL,Minnesota North Stars
+1983,MTL,NHL,Montreal Canadiens
+1983,NJD,NHL,New Jersey Devils
+1983,NYI,NHL,New York Islanders
+1983,NYR,NHL,New York Rangers
+1983,PHI,NHL,Philadelphia Flyers
+1983,PIT,NHL,Pittsburgh Penguins
+1983,QUE,NHL,Quebec Nordiques
+1983,STL,NHL,St. Louis Blues
+1983,TOR,NHL,Toronto Maple Leafs
+1983,VAN,NHL,Vancouver Canucks
+1983,WAS,NHL,Washington Capitals
+1983,WIN,NHL,Winnipeg Jets
+1984,BOS,NHL,Boston Bruins
+1984,BUF,NHL,Buffalo Sabres
+1984,CAL,NHL,Calgary Flames
+1984,CHI,NHL,Chicago Black Hawks
+1984,DET,NHL,Detroit Red Wings
+1984,EDM,NHL,Edmonton Oilers
+1984,HAR,NHL,Hartford Whalers
+1984,LAK,NHL,Los Angeles Kings
+1984,MNS,NHL,Minnesota North Stars
+1984,MTL,NHL,Montreal Canadiens
+1984,NJD,NHL,New Jersey Devils
+1984,NYI,NHL,New York Islanders
+1984,NYR,NHL,New York Rangers
+1984,PHI,NHL,Philadelphia Flyers
+1984,PIT,NHL,Pittsburgh Penguins
+1984,QUE,NHL,Quebec Nordiques
+1984,STL,NHL,St. Louis Blues
+1984,TOR,NHL,Toronto Maple Leafs
+1984,VAN,NHL,Vancouver Canucks
+1984,WAS,NHL,Washington Capitals
+1984,WIN,NHL,Winnipeg Jets
+1985,BOS,NHL,Boston Bruins
+1985,BUF,NHL,Buffalo Sabres
+1985,CAL,NHL,Calgary Flames
+1985,CHI,NHL,Chicago Black Hawks
+1985,DET,NHL,Detroit Red Wings
+1985,EDM,NHL,Edmonton Oilers
+1985,HAR,NHL,Hartford Whalers
+1985,LAK,NHL,Los Angeles Kings
+1985,MNS,NHL,Minnesota North Stars
+1985,MTL,NHL,Montreal Canadiens
+1985,NJD,NHL,New Jersey Devils
+1985,NYI,NHL,New York Islanders
+1985,NYR,NHL,New York Rangers
+1985,PHI,NHL,Philadelphia Flyers
+1985,PIT,NHL,Pittsburgh Penguins
+1985,QUE,NHL,Quebec Nordiques
+1985,STL,NHL,St. Louis Blues
+1985,TOR,NHL,Toronto Maple Leafs
+1985,VAN,NHL,Vancouver Canucks
+1985,WAS,NHL,Washington Capitals
+1985,WIN,NHL,Winnipeg Jets
+1986,BOS,NHL,Boston Bruins
+1986,BUF,NHL,Buffalo Sabres
+1986,CAL,NHL,Calgary Flames
+1986,CHI,NHL,Chicago Blackhawks
+1986,DET,NHL,Detroit Red Wings
+1986,EDM,NHL,Edmonton Oilers
+1986,HAR,NHL,Hartford Whalers
+1986,LAK,NHL,Los Angeles Kings
+1986,MNS,NHL,Minnesota North Stars
+1986,MTL,NHL,Montreal Canadiens
+1986,NJD,NHL,New Jersey Devils
+1986,NYI,NHL,New York Islanders
+1986,NYR,NHL,New York Rangers
+1986,PHI,NHL,Philadelphia Flyers
+1986,PIT,NHL,Pittsburgh Penguins
+1986,QUE,NHL,Quebec Nordiques
+1986,STL,NHL,St. Louis Blues
+1986,TOR,NHL,Toronto Maple Leafs
+1986,VAN,NHL,Vancouver Canucks
+1986,WAS,NHL,Washington Capitals
+1986,WIN,NHL,Winnipeg Jets
+1987,BOS,NHL,Boston Bruins
+1987,BUF,NHL,Buffalo Sabres
+1987,CAL,NHL,Calgary Flames
+1987,CHI,NHL,Chicago Blackhawks
+1987,DET,NHL,Detroit Red Wings
+1987,EDM,NHL,Edmonton Oilers
+1987,HAR,NHL,Hartford Whalers
+1987,LAK,NHL,Los Angeles Kings
+1987,MNS,NHL,Minnesota North Stars
+1987,MTL,NHL,Montreal Canadiens
+1987,NJD,NHL,New Jersey Devils
+1987,NYI,NHL,New York Islanders
+1987,NYR,NHL,New York Rangers
+1987,PHI,NHL,Philadelphia Flyers
+1987,PIT,NHL,Pittsburgh Penguins
+1987,QUE,NHL,Quebec Nordiques
+1987,STL,NHL,St. Louis Blues
+1987,TOR,NHL,Toronto Maple Leafs
+1987,VAN,NHL,Vancouver Canucks
+1987,WAS,NHL,Washington Capitals
+1987,WIN,NHL,Winnipeg Jets
+1988,BOS,NHL,Boston Bruins
+1988,BUF,NHL,Buffalo Sabres
+1988,CAL,NHL,Calgary Flames
+1988,CHI,NHL,Chicago Blackhawks
+1988,DET,NHL,Detroit Red Wings
+1988,EDM,NHL,Edmonton Oilers
+1988,HAR,NHL,Hartford Whalers
+1988,LAK,NHL,Los Angeles Kings
+1988,MNS,NHL,Minnesota North Stars
+1988,MTL,NHL,Montreal Canadiens
+1988,NJD,NHL,New Jersey Devils
+1988,NYI,NHL,New York Islanders
+1988,NYR,NHL,New York Rangers
+1988,PHI,NHL,Philadelphia Flyers
+1988,PIT,NHL,Pittsburgh Penguins
+1988,QUE,NHL,Quebec Nordiques
+1988,STL,NHL,St. Louis Blues
+1988,TOR,NHL,Toronto Maple Leafs
+1988,VAN,NHL,Vancouver Canucks
+1988,WAS,NHL,Washington Capitals
+1988,WIN,NHL,Winnipeg Jets
+1989,BOS,NHL,Boston Bruins
+1989,BUF,NHL,Buffalo Sabres
+1989,CAL,NHL,Calgary Flames
+1989,CHI,NHL,Chicago Blackhawks
+1989,DET,NHL,Detroit Red Wings
+1989,EDM,NHL,Edmonton Oilers
+1989,HAR,NHL,Hartford Whalers
+1989,LAK,NHL,Los Angeles Kings
+1989,MNS,NHL,Minnesota North Stars
+1989,MTL,NHL,Montreal Canadiens
+1989,NJD,NHL,New Jersey Devils
+1989,NYI,NHL,New York Islanders
+1989,NYR,NHL,New York Rangers
+1989,PHI,NHL,Philadelphia Flyers
+1989,PIT,NHL,Pittsburgh Penguins
+1989,QUE,NHL,Quebec Nordiques
+1989,STL,NHL,St. Louis Blues
+1989,TOR,NHL,Toronto Maple Leafs
+1989,VAN,NHL,Vancouver Canucks
+1989,WAS,NHL,Washington Capitals
+1989,WIN,NHL,Winnipeg Jets
+1990,BOS,NHL,Boston Bruins
+1990,BUF,NHL,Buffalo Sabres
+1990,CAL,NHL,Calgary Flames
+1990,CHI,NHL,Chicago Blackhawks
+1990,DET,NHL,Detroit Red Wings
+1990,EDM,NHL,Edmonton Oilers
+1990,HAR,NHL,Hartford Whalers
+1990,LAK,NHL,Los Angeles Kings
+1990,MNS,NHL,Minnesota North Stars
+1990,MTL,NHL,Montreal Canadiens
+1990,NJD,NHL,New Jersey Devils
+1990,NYI,NHL,New York Islanders
+1990,NYR,NHL,New York Rangers
+1990,PHI,NHL,Philadelphia Flyers
+1990,PIT,NHL,Pittsburgh Penguins
+1990,QUE,NHL,Quebec Nordiques
+1990,STL,NHL,St. Louis Blues
+1990,TOR,NHL,Toronto Maple Leafs
+1990,VAN,NHL,Vancouver Canucks
+1990,WAS,NHL,Washington Capitals
+1990,WIN,NHL,Winnipeg Jets
+1991,BOS,NHL,Boston Bruins
+1991,BUF,NHL,Buffalo Sabres
+1991,CAL,NHL,Calgary Flames
+1991,CHI,NHL,Chicago Blackhawks
+1991,DET,NHL,Detroit Red Wings
+1991,EDM,NHL,Edmonton Oilers
+1991,HAR,NHL,Hartford Whalers
+1991,LAK,NHL,Los Angeles Kings
+1991,MNS,NHL,Minnesota North Stars
+1991,MTL,NHL,Montreal Canadiens
+1991,NJD,NHL,New Jersey Devils
+1991,NYI,NHL,New York Islanders
+1991,NYR,NHL,New York Rangers
+1991,PHI,NHL,Philadelphia Flyers
+1991,PIT,NHL,Pittsburgh Penguins
+1991,QUE,NHL,Quebec Nordiques
+1991,SJS,NHL,San Jose Sharks
+1991,STL,NHL,St. Louis Blues
+1991,TOR,NHL,Toronto Maple Leafs
+1991,VAN,NHL,Vancouver Canucks
+1991,WAS,NHL,Washington Capitals
+1991,WIN,NHL,Winnipeg Jets
+1992,BOS,NHL,Boston Bruins
+1992,BUF,NHL,Buffalo Sabres
+1992,CAL,NHL,Calgary Flames
+1992,CHI,NHL,Chicago Blackhawks
+1992,DET,NHL,Detroit Red Wings
+1992,EDM,NHL,Edmonton Oilers
+1992,HAR,NHL,Hartford Whalers
+1992,LAK,NHL,Los Angeles Kings
+1992,MNS,NHL,Minnesota North Stars
+1992,MTL,NHL,Montreal Canadiens
+1992,NJD,NHL,New Jersey Devils
+1992,NYI,NHL,New York Islanders
+1992,NYR,NHL,New York Rangers
+1992,OTT,NHL,Ottawa Senators
+1992,PHI,NHL,Philadelphia Flyers
+1992,PIT,NHL,Pittsburgh Penguins
+1992,QUE,NHL,Quebec Nordiques
+1992,SJS,NHL,San Jose Sharks
+1992,STL,NHL,St. Louis Blues
+1992,TBL,NHL,Tampa Bay Lightning
+1992,TOR,NHL,Toronto Maple Leafs
+1992,VAN,NHL,Vancouver Canucks
+1992,WAS,NHL,Washington Capitals
+1992,WIN,NHL,Winnipeg Jets
+1993,ANA,NHL,Mighty Ducks of Anaheim
+1993,BOS,NHL,Boston Bruins
+1993,BUF,NHL,Buffalo Sabres
+1993,CAL,NHL,Calgary Flames
+1993,CHI,NHL,Chicago Blackhawks
+1993,DAL,NHL,Dallas Stars
+1993,DET,NHL,Detroit Red Wings
+1993,EDM,NHL,Edmonton Oilers
+1993,FLO,NHL,Florida Panthers
+1993,HAR,NHL,Hartford Whalers
+1993,LAK,NHL,Los Angeles Kings
+1993,MTL,NHL,Montreal Canadiens
+1993,NJD,NHL,New Jersey Devils
+1993,NYI,NHL,New York Islanders
+1993,NYR,NHL,New York Rangers
+1993,OTT,NHL,Ottawa Senators
+1993,PHI,NHL,Philadelphia Flyers
+1993,PIT,NHL,Pittsburgh Penguins
+1993,QUE,NHL,Quebec Nordiques
+1993,SJS,NHL,San Jose Sharks
+1993,STL,NHL,St. Louis Blues
+1993,TBL,NHL,Tampa Bay Lightning
+1993,TOR,NHL,Toronto Maple Leafs
+1993,VAN,NHL,Vancouver Canucks
+1993,WAS,NHL,Washington Capitals
+1993,WIN,NHL,Winnipeg Jets
+1994,ANA,NHL,Mighty Ducks of Anaheim
+1994,BOS,NHL,Boston Bruins
+1994,BUF,NHL,Buffalo Sabres
+1994,CAL,NHL,Calgary Flames
+1994,CHI,NHL,Chicago Blackhawks
+1994,DAL,NHL,Dallas Stars
+1994,DET,NHL,Detroit Red Wings
+1994,EDM,NHL,Edmonton Oilers
+1994,FLO,NHL,Florida Panthers
+1994,HAR,NHL,Hartford Whalers
+1994,LAK,NHL,Los Angeles Kings
+1994,MTL,NHL,Montreal Canadiens
+1994,NJD,NHL,New Jersey Devils
+1994,NYI,NHL,New York Islanders
+1994,NYR,NHL,New York Rangers
+1994,OTT,NHL,Ottawa Senators
+1994,PHI,NHL,Philadelphia Flyers
+1994,PIT,NHL,Pittsburgh Penguins
+1994,QUE,NHL,Quebec Nordiques
+1994,SJS,NHL,San Jose Sharks
+1994,STL,NHL,St. Louis Blues
+1994,TBL,NHL,Tampa Bay Lightning
+1994,TOR,NHL,Toronto Maple Leafs
+1994,VAN,NHL,Vancouver Canucks
+1994,WAS,NHL,Washington Capitals
+1994,WIN,NHL,Winnipeg Jets
+1995,ANA,NHL,Mighty Ducks of Anaheim
+1995,BOS,NHL,Boston Bruins
+1995,BUF,NHL,Buffalo Sabres
+1995,CAL,NHL,Calgary Flames
+1995,CHI,NHL,Chicago Blackhawks
+1995,COL,NHL,Colorado Avalanche
+1995,DAL,NHL,Dallas Stars
+1995,DET,NHL,Detroit Red Wings
+1995,EDM,NHL,Edmonton Oilers
+1995,FLO,NHL,Florida Panthers
+1995,HAR,NHL,Hartford Whalers
+1995,LAK,NHL,Los Angeles Kings
+1995,MTL,NHL,Montreal Canadiens
+1995,NJD,NHL,New Jersey Devils
+1995,NYI,NHL,New York Islanders
+1995,NYR,NHL,New York Rangers
+1995,OTT,NHL,Ottawa Senators
+1995,PHI,NHL,Philadelphia Flyers
+1995,PIT,NHL,Pittsburgh Penguins
+1995,SJS,NHL,San Jose Sharks
+1995,STL,NHL,St. Louis Blues
+1995,TBL,NHL,Tampa Bay Lightning
+1995,TOR,NHL,Toronto Maple Leafs
+1995,VAN,NHL,Vancouver Canucks
+1995,WAS,NHL,Washington Capitals
+1995,WIN,NHL,Winnipeg Jets
+1996,ANA,NHL,Mighty Ducks of Anaheim
+1996,BOS,NHL,Boston Bruins
+1996,BUF,NHL,Buffalo Sabres
+1996,CAL,NHL,Calgary Flames
+1996,CHI,NHL,Chicago Blackhawks
+1996,COL,NHL,Colorado Avalanche
+1996,DAL,NHL,Dallas Stars
+1996,DET,NHL,Detroit Red Wings
+1996,EDM,NHL,Edmonton Oilers
+1996,FLO,NHL,Florida Panthers
+1996,HAR,NHL,Hartford Whalers
+1996,LAK,NHL,Los Angeles Kings
+1996,MTL,NHL,Montreal Canadiens
+1996,NJD,NHL,New Jersey Devils
+1996,NYI,NHL,New York Islanders
+1996,NYR,NHL,New York Rangers
+1996,OTT,NHL,Ottawa Senators
+1996,PHI,NHL,Philadelphia Flyers
+1996,PHO,NHL,Phoenix Coyotes
+1996,PIT,NHL,Pittsburgh Penguins
+1996,SJS,NHL,San Jose Sharks
+1996,STL,NHL,St. Louis Blues
+1996,TBL,NHL,Tampa Bay Lightning
+1996,TOR,NHL,Toronto Maple Leafs
+1996,VAN,NHL,Vancouver Canucks
+1996,WAS,NHL,Washington Capitals
+1997,ANA,NHL,Mighty Ducks of Anaheim
+1997,BOS,NHL,Boston Bruins
+1997,BUF,NHL,Buffalo Sabres
+1997,CAL,NHL,Calgary Flames
+1997,CAR,NHL,Carolina Hurricanes
+1997,CHI,NHL,Chicago Blackhawks
+1997,COL,NHL,Colorado Avalanche
+1997,DAL,NHL,Dallas Stars
+1997,DET,NHL,Detroit Red Wings
+1997,EDM,NHL,Edmonton Oilers
+1997,FLO,NHL,Florida Panthers
+1997,LAK,NHL,Los Angeles Kings
+1997,MTL,NHL,Montreal Canadiens
+1997,NJD,NHL,New Jersey Devils
+1997,NYI,NHL,New York Islanders
+1997,NYR,NHL,New York Rangers
+1997,OTT,NHL,Ottawa Senators
+1997,PHI,NHL,Philadelphia Flyers
+1997,PHO,NHL,Phoenix Coyotes
+1997,PIT,NHL,Pittsburgh Penguins
+1997,SJS,NHL,San Jose Sharks
+1997,STL,NHL,St. Louis Blues
+1997,TBL,NHL,Tampa Bay Lightning
+1997,TOR,NHL,Toronto Maple Leafs
+1997,VAN,NHL,Vancouver Canucks
+1997,WAS,NHL,Washington Capitals
+1998,ANA,NHL,Mighty Ducks of Anaheim
+1998,BOS,NHL,Boston Bruins
+1998,BUF,NHL,Buffalo Sabres
+1998,CAL,NHL,Calgary Flames
+1998,CAR,NHL,Carolina Hurricanes
+1998,CHI,NHL,Chicago Blackhawks
+1998,COL,NHL,Colorado Avalanche
+1998,DAL,NHL,Dallas Stars
+1998,DET,NHL,Detroit Red Wings
+1998,EDM,NHL,Edmonton Oilers
+1998,FLO,NHL,Florida Panthers
+1998,LAK,NHL,Los Angeles Kings
+1998,MTL,NHL,Montreal Canadiens
+1998,NAS,NHL,Nashville Predators
+1998,NJD,NHL,New Jersey Devils
+1998,NYI,NHL,New York Islanders
+1998,NYR,NHL,New York Rangers
+1998,OTT,NHL,Ottawa Senators
+1998,PHI,NHL,Philadelphia Flyers
+1998,PHO,NHL,Phoenix Coyotes
+1998,PIT,NHL,Pittsburgh Penguins
+1998,SJS,NHL,San Jose Sharks
+1998,STL,NHL,St. Louis Blues
+1998,TBL,NHL,Tampa Bay Lightning
+1998,TOR,NHL,Toronto Maple Leafs
+1998,VAN,NHL,Vancouver Canucks
+1998,WAS,NHL,Washington Capitals
+1999,ANA,NHL,Mighty Ducks of Anaheim
+1999,ATL,NHL,Atlanta Thrashers
+1999,BOS,NHL,Boston Bruins
+1999,BUF,NHL,Buffalo Sabres
+1999,CAL,NHL,Calgary Flames
+1999,CAR,NHL,Carolina Hurricanes
+1999,CHI,NHL,Chicago Blackhawks
+1999,COL,NHL,Colorado Avalanche
+1999,DAL,NHL,Dallas Stars
+1999,DET,NHL,Detroit Red Wings
+1999,EDM,NHL,Edmonton Oilers
+1999,FLO,NHL,Florida Panthers
+1999,LAK,NHL,Los Angeles Kings
+1999,MTL,NHL,Montreal Canadiens
+1999,NAS,NHL,Nashville Predators
+1999,NJD,NHL,New Jersey Devils
+1999,NYI,NHL,New York Islanders
+1999,NYR,NHL,New York Rangers
+1999,OTT,NHL,Ottawa Senators
+1999,PHI,NHL,Philadelphia Flyers
+1999,PHO,NHL,Phoenix Coyotes
+1999,PIT,NHL,Pittsburgh Penguins
+1999,SJS,NHL,San Jose Sharks
+1999,STL,NHL,St. Louis Blues
+1999,TBL,NHL,Tampa Bay Lightning
+1999,TOR,NHL,Toronto Maple Leafs
+1999,VAN,NHL,Vancouver Canucks
+1999,WAS,NHL,Washington Capitals
+2000,ANA,NHL,Mighty Ducks of Anaheim
+2000,ATL,NHL,Atlanta Thrashers
+2000,BOS,NHL,Boston Bruins
+2000,BUF,NHL,Buffalo Sabres
+2000,CAL,NHL,Calgary Flames
+2000,CAR,NHL,Carolina Hurricanes
+2000,CBS,NHL,Columbus Blue Jackets
+2000,CHI,NHL,Chicago Blackhawks
+2000,COL,NHL,Colorado Avalanche
+2000,DAL,NHL,Dallas Stars
+2000,DET,NHL,Detroit Red Wings
+2000,EDM,NHL,Edmonton Oilers
+2000,FLO,NHL,Florida Panthers
+2000,LAK,NHL,Los Angeles Kings
+2000,MIN,NHL,Minnesota Wild
+2000,MTL,NHL,Montreal Canadiens
+2000,NAS,NHL,Nashville Predators
+2000,NJD,NHL,New Jersey Devils
+2000,NYI,NHL,New York Islanders
+2000,NYR,NHL,New York Rangers
+2000,OTT,NHL,Ottawa Senators
+2000,PHI,NHL,Philadelphia Flyers
+2000,PHO,NHL,Phoenix Coyotes
+2000,PIT,NHL,Pittsburgh Penguins
+2000,SJS,NHL,San Jose Sharks
+2000,STL,NHL,St. Louis Blues
+2000,TBL,NHL,Tampa Bay Lightning
+2000,TOR,NHL,Toronto Maple Leafs
+2000,VAN,NHL,Vancouver Canucks
+2000,WAS,NHL,Washington Capitals
+2001,ANA,NHL,Mighty Ducks of Anaheim
+2001,ATL,NHL,Atlanta Thrashers
+2001,BOS,NHL,Boston Bruins
+2001,BUF,NHL,Buffalo Sabres
+2001,CAL,NHL,Calgary Flames
+2001,CAR,NHL,Carolina Hurricanes
+2001,CBS,NHL,Columbus Blue Jackets
+2001,CHI,NHL,Chicago Blackhawks
+2001,COL,NHL,Colorado Avalanche
+2001,DAL,NHL,Dallas Stars
+2001,DET,NHL,Detroit Red Wings
+2001,EDM,NHL,Edmonton Oilers
+2001,FLO,NHL,Florida Panthers
+2001,LAK,NHL,Los Angeles Kings
+2001,MIN,NHL,Minnesota Wild
+2001,MTL,NHL,Montreal Canadiens
+2001,NAS,NHL,Nashville Predators
+2001,NJD,NHL,New Jersey Devils
+2001,NYI,NHL,New York Islanders
+2001,NYR,NHL,New York Rangers
+2001,OTT,NHL,Ottawa Senators
+2001,PHI,NHL,Philadelphia Flyers
+2001,PHO,NHL,Phoenix Coyotes
+2001,PIT,NHL,Pittsburgh Penguins
+2001,SJS,NHL,San Jose Sharks
+2001,STL,NHL,St. Louis Blues
+2001,TBL,NHL,Tampa Bay Lightning
+2001,TOR,NHL,Toronto Maple Leafs
+2001,VAN,NHL,Vancouver Canucks
+2001,WAS,NHL,Washington Capitals
+2002,ANA,NHL,Mighty Ducks of Anaheim
+2002,ATL,NHL,Atlanta Thrashers
+2002,BOS,NHL,Boston Bruins
+2002,BUF,NHL,Buffalo Sabres
+2002,CAL,NHL,Calgary Flames
+2002,CAR,NHL,Carolina Hurricanes
+2002,CBS,NHL,Columbus Blue Jackets
+2002,CHI,NHL,Chicago Blackhawks
+2002,COL,NHL,Colorado Avalanche
+2002,DAL,NHL,Dallas Stars
+2002,DET,NHL,Detroit Red Wings
+2002,EDM,NHL,Edmonton Oilers
+2002,FLO,NHL,Florida Panthers
+2002,LAK,NHL,Los Angeles Kings
+2002,MIN,NHL,Minnesota Wild
+2002,MTL,NHL,Montreal Canadiens
+2002,NAS,NHL,Nashville Predators
+2002,NJD,NHL,New Jersey Devils
+2002,NYI,NHL,New York Islanders
+2002,NYR,NHL,New York Rangers
+2002,OTT,NHL,Ottawa Senators
+2002,PHI,NHL,Philadelphia Flyers
+2002,PHO,NHL,Phoenix Coyotes
+2002,PIT,NHL,Pittsburgh Penguins
+2002,SJS,NHL,San Jose Sharks
+2002,STL,NHL,St. Louis Blues
+2002,TBL,NHL,Tampa Bay Lightning
+2002,TOR,NHL,Toronto Maple Leafs
+2002,VAN,NHL,Vancouver Canucks
+2002,WAS,NHL,Washington Capitals
+2003,ANA,NHL,Mighty Ducks of Anaheim
+2003,ATL,NHL,Atlanta Thrashers
+2003,BOS,NHL,Boston Bruins
+2003,BUF,NHL,Buffalo Sabres
+2003,CAL,NHL,Calgary Flames
+2003,CAR,NHL,Carolina Hurricanes
+2003,CBS,NHL,Columbus Blue Jackets
+2003,CHI,NHL,Chicago Blackhawks
+2003,COL,NHL,Colorado Avalanche
+2003,DAL,NHL,Dallas Stars
+2003,DET,NHL,Detroit Red Wings
+2003,EDM,NHL,Edmonton Oilers
+2003,FLO,NHL,Florida Panthers
+2003,LAK,NHL,Los Angeles Kings
+2003,MIN,NHL,Minnesota Wild
+2003,MTL,NHL,Montreal Canadiens
+2003,NAS,NHL,Nashville Predators
+2003,NJD,NHL,New Jersey Devils
+2003,NYI,NHL,New York Islanders
+2003,NYR,NHL,New York Rangers
+2003,OTT,NHL,Ottawa Senators
+2003,PHI,NHL,Philadelphia Flyers
+2003,PHO,NHL,Phoenix Coyotes
+2003,PIT,NHL,Pittsburgh Penguins
+2003,SJS,NHL,San Jose Sharks
+2003,STL,NHL,St. Louis Blues
+2003,TBL,NHL,Tampa Bay Lightning
+2003,TOR,NHL,Toronto Maple Leafs
+2003,VAN,NHL,Vancouver Canucks
+2003,WAS,NHL,Washington Capitals
+2005,ANA,NHL,Mighty Ducks of Anaheim
+2005,ATL,NHL,Atlanta Thrashers
+2005,BOS,NHL,Boston Bruins
+2005,BUF,NHL,Buffalo Sabres
+2005,CAL,NHL,Calgary Flames
+2005,CAR,NHL,Carolina Hurricanes
+2005,CBS,NHL,Columbus Blue Jackets
+2005,CHI,NHL,Chicago Blackhawks
+2005,COL,NHL,Colorado Avalanche
+2005,DAL,NHL,Dallas Stars
+2005,DET,NHL,Detroit Red Wings
+2005,EDM,NHL,Edmonton Oilers
+2005,FLO,NHL,Florida Panthers
+2005,LAK,NHL,Los Angeles Kings
+2005,MIN,NHL,Minnesota Wild
+2005,MTL,NHL,Montreal Canadiens
+2005,NAS,NHL,Nashville Predators
+2005,NJD,NHL,New Jersey Devils
+2005,NYI,NHL,New York Islanders
+2005,NYR,NHL,New York Rangers
+2005,OTT,NHL,Ottawa Senators
+2005,PHI,NHL,Philadelphia Flyers
+2005,PHO,NHL,Phoenix Coyotes
+2005,PIT,NHL,Pittsburgh Penguins
+2005,SJS,NHL,San Jose Sharks
+2005,STL,NHL,St. Louis Blues
+2005,TBL,NHL,Tampa Bay Lightning
+2005,TOR,NHL,Toronto Maple Leafs
+2005,VAN,NHL,Vancouver Canucks
+2005,WAS,NHL,Washington Capitals
+2006,AND,NHL,Anaheim Ducks
+2006,ATL,NHL,Atlanta Thrashers
+2006,BOS,NHL,Boston Bruins
+2006,BUF,NHL,Buffalo Sabres
+2006,CAL,NHL,Calgary Flames
+2006,CAR,NHL,Carolina Hurricanes
+2006,CBS,NHL,Columbus Blue Jackets
+2006,CHI,NHL,Chicago Blackhawks
+2006,COL,NHL,Colorado Avalanche
+2006,DAL,NHL,Dallas Stars
+2006,DET,NHL,Detroit Red Wings
+2006,EDM,NHL,Edmonton Oilers
+2006,FLO,NHL,Florida Panthers
+2006,LAK,NHL,Los Angeles Kings
+2006,MIN,NHL,Minnesota Wild
+2006,MTL,NHL,Montreal Canadiens
+2006,NAS,NHL,Nashville Predators
+2006,NJD,NHL,New Jersey Devils
+2006,NYI,NHL,New York Islanders
+2006,NYR,NHL,New York Rangers
+2006,OTT,NHL,Ottawa Senators
+2006,PHI,NHL,Philadelphia Flyers
+2006,PHO,NHL,Phoenix Coyotes
+2006,PIT,NHL,Pittsburgh Penguins
+2006,SJS,NHL,San Jose Sharks
+2006,STL,NHL,St. Louis Blues
+2006,TBL,NHL,Tampa Bay Lightning
+2006,TOR,NHL,Toronto Maple Leafs
+2006,VAN,NHL,Vancouver Canucks
+2006,WAS,NHL,Washington Capitals
+2007,AND,NHL,Anaheim Ducks
+2007,ATL,NHL,Atlanta Thrashers
+2007,BOS,NHL,Boston Bruins
+2007,BUF,NHL,Buffalo Sabres
+2007,CAL,NHL,Calgary Flames
+2007,CAR,NHL,Carolina Hurricanes
+2007,CBS,NHL,Columbus Blue Jackets
+2007,CHI,NHL,Chicago Blackhawks
+2007,COL,NHL,Colorado Avalanche
+2007,DAL,NHL,Dallas Stars
+2007,DET,NHL,Detroit Red Wings
+2007,EDM,NHL,Edmonton Oilers
+2007,FLO,NHL,Florida Panthers
+2007,LAK,NHL,Los Angeles Kings
+2007,MIN,NHL,Minnesota Wild
+2007,MTL,NHL,Montreal Canadiens
+2007,NAS,NHL,Nashville Predators
+2007,NJD,NHL,New Jersey Devils
+2007,NYI,NHL,New York Islanders
+2007,NYR,NHL,New York Rangers
+2007,OTT,NHL,Ottawa Senators
+2007,PHI,NHL,Philadelphia Flyers
+2007,PHO,NHL,Phoenix Coyotes
+2007,PIT,NHL,Pittsburgh Penguins
+2007,SJS,NHL,San Jose Sharks
+2007,STL,NHL,St. Louis Blues
+2007,TBL,NHL,Tampa Bay Lightning
+2007,TOR,NHL,Toronto Maple Leafs
+2007,VAN,NHL,Vancouver Canucks
+2007,WAS,NHL,Washington Capitals
+2008,AND,NHL,Anaheim Ducks
+2008,ATL,NHL,Atlanta Thrashers
+2008,BOS,NHL,Boston Bruins
+2008,BUF,NHL,Buffalo Sabres
+2008,CAL,NHL,Calgary Flames
+2008,CAR,NHL,Carolina Hurricanes
+2008,CBS,NHL,Columbus Blue Jackets
+2008,CHI,NHL,Chicago Blackhawks
+2008,COL,NHL,Colorado Avalanche
+2008,DAL,NHL,Dallas Stars
+2008,DET,NHL,Detroit Red Wings
+2008,EDM,NHL,Edmonton Oilers
+2008,FLO,NHL,Florida Panthers
+2008,LAK,NHL,Los Angeles Kings
+2008,MIN,NHL,Minnesota Wild
+2008,MTL,NHL,Montreal Canadiens
+2008,NAS,NHL,Nashville Predators
+2008,NJD,NHL,New Jersey Devils
+2008,NYI,NHL,New York Islanders
+2008,NYR,NHL,New York Rangers
+2008,OTT,NHL,Ottawa Senators
+2008,PHI,NHL,Philadelphia Flyers
+2008,PHO,NHL,Phoenix Coyotes
+2008,PIT,NHL,Pittsburgh Penguins
+2008,SJS,NHL,San Jose Sharks
+2008,STL,NHL,St. Louis Blues
+2008,TBL,NHL,Tampa Bay Lightning
+2008,TOR,NHL,Toronto Maple Leafs
+2008,VAN,NHL,Vancouver Canucks
+2008,WAS,NHL,Washington Capitals
+2009,AND,NHL,Anaheim Ducks
+2009,ATL,NHL,Atlanta Thrashers
+2009,BOS,NHL,Boston Bruins
+2009,BUF,NHL,Buffalo Sabres
+2009,CAL,NHL,Calgary Flames
+2009,CAR,NHL,Carolina Hurricanes
+2009,CBS,NHL,Columbus Blue Jackets
+2009,CHI,NHL,Chicago Blackhawks
+2009,COL,NHL,Colorado Avalanche
+2009,DAL,NHL,Dallas Stars
+2009,DET,NHL,Detroit Red Wings
+2009,EDM,NHL,Edmonton Oilers
+2009,FLO,NHL,Florida Panthers
+2009,LAK,NHL,Los Angeles Kings
+2009,MIN,NHL,Minnesota Wild
+2009,MTL,NHL,Montreal Canadiens
+2009,NAS,NHL,Nashville Predators
+2009,NJD,NHL,New Jersey Devils
+2009,NYI,NHL,New York Islanders
+2009,NYR,NHL,New York Rangers
+2009,OTT,NHL,Ottawa Senators
+2009,PHI,NHL,Philadelphia Flyers
+2009,PHO,NHL,Phoenix Coyotes
+2009,PIT,NHL,Pittsburgh Penguins
+2009,SJS,NHL,San Jose Sharks
+2009,STL,NHL,St. Louis Blues
+2009,TBL,NHL,Tampa Bay Lightning
+2009,TOR,NHL,Toronto Maple Leafs
+2009,VAN,NHL,Vancouver Canucks
+2009,WAS,NHL,Washington Capitals
+2010,AND,NHL,Anaheim Ducks
+2010,ATL,NHL,Atlanta Thrashers
+2010,BOS,NHL,Boston Bruins
+2010,BUF,NHL,Buffalo Sabres
+2010,CAL,NHL,Calgary Flames
+2010,CAR,NHL,Carolina Hurricanes
+2010,CBS,NHL,Columbus Blue Jackets
+2010,CHI,NHL,Chicago Blackhawks
+2010,COL,NHL,Colorado Avalanche
+2010,DAL,NHL,Dallas Stars
+2010,DET,NHL,Detroit Red Wings
+2010,EDM,NHL,Edmonton Oilers
+2010,FLO,NHL,Florida Panthers
+2010,LAK,NHL,Los Angeles Kings
+2010,MIN,NHL,Minnesota Wild
+2010,MTL,NHL,Montreal Canadiens
+2010,NAS,NHL,Nashville Predators
+2010,NJD,NHL,New Jersey Devils
+2010,NYI,NHL,New York Islanders
+2010,NYR,NHL,New York Rangers
+2010,OTT,NHL,Ottawa Senators
+2010,PHI,NHL,Philadelphia Flyers
+2010,PHO,NHL,Phoenix Coyotes
+2010,PIT,NHL,Pittsburgh Penguins
+2010,SJS,NHL,San Jose Sharks
+2010,STL,NHL,St. Louis Blues
+2010,TBL,NHL,Tampa Bay Lightning
+2010,TOR,NHL,Toronto Maple Leafs
+2010,VAN,NHL,Vancouver Canucks
+2010,WAS,NHL,Washington Capitals
+2011,AND,NHL,Anaheim Ducks
+2011,BOS,NHL,Boston Bruins
+2011,BUF,NHL,Buffalo Sabres
+2011,CAL,NHL,Calgary Flames
+2011,CAR,NHL,Carolina Hurricanes
+2011,CBS,NHL,Columbus Blue Jackets
+2011,CHI,NHL,Chicago Blackhawks
+2011,COL,NHL,Colorado Avalanche
+2011,DAL,NHL,Dallas Stars
+2011,DET,NHL,Detroit Red Wings
+2011,EDM,NHL,Edmonton Oilers
+2011,FLO,NHL,Florida Panthers
+2011,LAK,NHL,Los Angeles Kings
+2011,MIN,NHL,Minnesota Wild
+2011,MTL,NHL,Montreal Canadiens
+2011,NAS,NHL,Nashville Predators
+2011,NJD,NHL,New Jersey Devils
+2011,NYI,NHL,New York Islanders
+2011,NYR,NHL,New York Rangers
+2011,OTT,NHL,Ottawa Senators
+2011,PHI,NHL,Philadelphia Flyers
+2011,PHO,NHL,Phoenix Coyotes
+2011,PIT,NHL,Pittsburgh Penguins
+2011,SJS,NHL,San Jose Sharks
+2011,STL,NHL,St. Louis Blues
+2011,TBL,NHL,Tampa Bay Lightning
+2011,TOR,NHL,Toronto Maple Leafs
+2011,VAN,NHL,Vancouver Canucks
+2011,WAS,NHL,Washington Capitals
+2011,WPG,NHL,Winnipeg Jets

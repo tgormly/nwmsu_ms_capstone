@@ -1,7 +1,7 @@
 # Tim Gormly
 ## MS Data Analysis - Capstone Project
 
-[Overleaf Report](https://www.overleaf.com/read/qgdzxhsjpvdg#9be92b)
+[Report:](https://www.overleaf.com/read/qgdzxhsjpvdg#9be92b)
 <hr>
 
 # National Ties: Exploring Team Composition and Player Success
@@ -10,12 +10,12 @@ What is the impact of having multiple teammates who share your nationality?
 
 <hr>
 
-## Sources
-
-### 
-
-https://www.relational-data.org/dataset/Hockey
-
+## Requirements
+A working Python environment is needed, as well as the following libraries:
+<ul> 
+<li>pandas</li>
+<li>pymysql</li>
+</ul>
 
 ## Module 1 Assignment
 
