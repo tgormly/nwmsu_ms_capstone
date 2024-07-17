@@ -17,7 +17,7 @@ To create a virtual environment, run this command in your project terminal:
     python -m venv venv
 
 To activate the environment, run this command:
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+'''source venv/bin/activate  # On Windows use `venv\Scripts\activate`'''
 
 
 <strong>Email:</strong> tim.gormly@gmail.com
