@@ -1,7 +1,7 @@
 # Tim Gormly
 ## MS Data Analysis - Capstone Project
 
-[Report:](https://www.overleaf.com/read/qgdzxhsjpvdg#9be92b)
+[Link to Overleaf Report](https://www.overleaf.com/read/qgdzxhsjpvdg#9be92b)
 <hr>
 
 # National Ties: Exploring Team Composition and Player Success
@@ -17,7 +17,7 @@ To create a virtual environment, run this command in your project terminal:
     python -m venv venv
 
 To activate the environment, run this command:
-'''source venv/bin/activate  # On Windows use `venv\Scripts\activate`'''
+~~~source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 
 <strong>Email:</strong> tim.gormly@gmail.com
