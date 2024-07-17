@@ -2,7 +2,7 @@
 ## MS Data Analysis - Capstone Project
 <strong>Email:</strong> tim.gormly@gmail.com
 
-[Link to Overleaf Report](https://www.overleaf.com/read/qgdzxhsjpvdg#9be92b)
+<strong>Overleaf Report:</strong>[https://www.overleaf.com/read/qgdzxhsjpvdg#9be92b](https://www.overleaf.com/read/qgdzxhsjpvdg#9be92b)
 <hr>
 
 # National Ties: Exploring Team Composition and Player Success
