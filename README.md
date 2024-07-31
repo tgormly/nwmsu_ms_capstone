@@ -40,7 +40,7 @@ Once your project environment has been created, you will need to create the data
 After Gold_Data_Layer.ipynb has ran and Data/Gold/main.csv has been created, other notebooks can be ran.
 
 ## Exploratory Data Analysis
-Exploratory_Data_Analysis.ipynb will create several new features, and then provide exploratory analysis focusing on input features and target variables.
+<a href="Exploratory_Data_Analysis.ipynb">Exploratory_Data_Analysis.ipynb</a> will create several new features, and then provide exploratory analysis focusing on input features and target variables.
 
 Exploratory data analysis reveals no real correlation between the number of teammates who share a player's nationality and that player's performance.
 
