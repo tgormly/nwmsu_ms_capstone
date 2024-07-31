@@ -32,9 +32,25 @@ pip install -r requirements.txt
 ## Creating Dataset
 Once your project environment has been created, you will need to create the dataset. You can do this by running the following jupyter notebooks in order:
 <ol>
-<li>Bronze_Data_Layer.ipynb</li>
-<li>Silver_Data_Layer.ipynb</li>
-<li>Gold_Data_Layer.ipynb</li>
+<li><a href="Bronze_Data_Layer.ipynb">Bronze_Data_Layer.ipynb</a></li>
+<li><a href="Silver_Data_Layer.ipynb">Silver_Data_Layer.ipynb</a></li>
+<li><a href="Gold_Data_Layer.ipynb">Gold_Data_Layer.ipynb</a></li>
 </ol>
 
 After Gold_Data_Layer.ipynb has ran and Data/Gold/main.csv has been created, other notebooks can be ran.
+
+## Exploratory Data Analysis
+<a href="Exploratory_Data_Analysis.ipynb">Exploratory_Data_Analysis.ipynb</a> will create several new features, and then provide exploratory analysis focusing on input features and target variables.
+
+Exploratory data analysis reveals no real correlation between the number of teammates who share a player's nationality and that player's performance.
+
+## Machine Learning Analysis
+Because of the lack of evidence supporting a linear correlation between teammates with the same nationality and player performance, Random Forest analysis is used. Three different target variables were predicted for in three different notebooks:
+<ol>
+<li><a href="ML_Performance_Score.ipynb">Player Performance Score</a></li>
+<li><a href="ML_Stint_VS_Prev_Sint.ipynb">Stint Performance vs Previous Stint Performance</a></li>
+<li><a href="ML_PIM_VS_Prev_Stint.ipynb">Penalty Minutes vs Previous Stint</a></li>
+</ol>
+
+The models in their current states do not perform well. At best, I was able to achieve an R-squared value of just under .20. Additional feature design and model refinement are needed to improve performance
+
