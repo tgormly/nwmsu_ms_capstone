@@ -32,9 +32,9 @@ pip install -r requirements.txt
 ## Creating Dataset
 Once your project environment has been created, you will need to create the dataset. You can do this by running the following jupyter notebooks in order:
 <ol>
-<li>Bronze_Data_Layer.ipynb</li>
-<li>Silver_Data_Layer.ipynb</li>
-<li>Gold_Data_Layer.ipynb</li>
+<li><a href="Bronze_Data_Layer.ipynb">Bronze_Data_Layer.ipynb</a></li>
+<li><a href="Silver_Data_Layer.ipynb">Silver_Data_Layer.ipynb</a></li>
+<li><a href="Gold_Data_Layer.ipynb">Gold_Data_Layer.ipynb</a></li>
 </ol>
 
 After Gold_Data_Layer.ipynb has ran and Data/Gold/main.csv has been created, other notebooks can be ran.
@@ -47,7 +47,8 @@ Exploratory data analysis reveals no real correlation between the number of team
 ## Machine Learning Analysis
 Because of the lack of evidence supporting a linear correlation between teammates with the same nationality and player performance, Random Forest analysis is used. Three different target variables were predicted for in three different notebooks:
 <ol>
-<li>Player Performance Score - ML_Performance_Score.ipynb</li>
-<li>Stint Performance vs Previous Stint Performance - ML_Stint_VS_Prev_Sint</li>
-<li>Penalty Minutes vs Previous Stint - ML_PIM_VS_Prev_Stint</li>
+<li><a href="ML_Performance_Score.ipynb">Player Performance Score</a></li>
+<li><a href="ML_Stint_VS_Prev_Sint.ipynb">Stint Performance vs Previous Stint Performance</a></li>
+<li><a href="ML_PIM_VS_Prev_Stint.ipynb">Penalty Minutes vs Previous Stint</a></li>
 </ol>
+
