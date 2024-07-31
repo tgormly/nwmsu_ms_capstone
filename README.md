@@ -52,3 +52,5 @@ Because of the lack of evidence supporting a linear correlation between teammate
 <li><a href="ML_PIM_VS_Prev_Stint.ipynb">Penalty Minutes vs Previous Stint</a></li>
 </ol>
 
+The models in their current states do not perform well. At best, I was able to achieve an R-squared value of just under .20. Additional feature design and model refinement are needed to improve performance
+
