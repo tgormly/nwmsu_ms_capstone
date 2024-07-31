@@ -38,3 +38,16 @@ Once your project environment has been created, you will need to create the data
 </ol>
 
 After Gold_Data_Layer.ipynb has ran and Data/Gold/main.csv has been created, other notebooks can be ran.
+
+## Exploratory Data Analysis
+Exploratory_Data_Analysis.ipynb will create several new features, and then provide exploratory analysis focusing on input features and target variables.
+
+Exploratory data analysis reveals no real correlation between the number of teammates who share a player's nationality and that player's performance.
+
+## Machine Learning Analysis
+Because of the lack of evidence supporting a linear correlation between teammates with the same nationality and player performance, Random Forest analysis is used. Three different target variables were predicted for in three different notebooks:
+<ol>
+<li>Player Performance Score - ML_Performance_Score.ipynb</li>
+<li>Stint Performance vs Previous Stint Performance - ML_Stint_VS_Prev_Sint</li>
+<li>Penalty Minutes vs Previous Stint - ML_PIM_VS_Prev_Stint</li>
+</ol>
